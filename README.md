@@ -11,10 +11,10 @@ class ShravanCool:
 		self.code = {
 			'frontend': ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
 			'backend': ['Python', 'Flask', 'Django', 'PHP'],
-			'database': ['MySQL', 'SQLite3', 'Mongo DB'],
+			'database': ['MySQL', 'SQLite3', 'Mongo DB', 'Postgres'],
 			'ai': ['Machine Learning', 'Computer Vision', 'NLP'],
-			'tools': ['GIT', 'Github', 'Jupyter notebook'],
-			'other_lang': ['C','C++','Java']
+			'tools': ['Git', 'Github', 'Jupyter notebook'],
+			'other_lang': ['C','C++','Java', 'Golang']
 			'misc': ['GNU/Linux', 'Bash scripting']
 		}
 		self.current = ['Deep Learning', 'Neural Networks']
@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
 ```
 
-I'm currently in my third year pursuing B.Tech CSE. I am currently interested in and am learning more about Machine Learning, Deep Learning and Neural Networks. I am also planning to learn Golang after that.
+I'm currently in my third year pursuing B.Tech CSE. I am interested in and am learning more about Machine Learning, Deep Learning and Neural Networks. I am also planning to learn Golang after that.
 
 Feel free to connect with me-
 - [Linkedin](https://www.linkedin.com/in/shravan-a-j-121ab91a1)
