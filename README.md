@@ -14,7 +14,7 @@ class ShravanCool:
 			'database': ['MySQL', 'SQLite3', 'Mongo DB', 'Postgres'],
 			'ai': ['Machine Learning', 'Computer Vision', 'NLP'],
 			'tools': ['Git', 'Github', 'Jupyter notebook'],
-			'other_lang': ['C','C++','Java', 'Golang']
+			'other_lang': ['C','C++','Java', 'Golang'],
 			'misc': ['GNU/Linux', 'Bash scripting']
 		}
 		self.current = ['Deep Learning', 'Neural Networks']
