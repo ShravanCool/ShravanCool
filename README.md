@@ -17,7 +17,7 @@ class ShravanCool:
 			'other_lang': ['C','C++','Java', 'Golang'],
 			'misc': ['GNU/Linux', 'Bash scripting']
 		}
-		self.current = ['Deep Learning', 'Neural Networks']
+		
 
 	def __str__(self):
 		return self.name
